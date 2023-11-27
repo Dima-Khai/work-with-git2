@@ -1,0 +1,19 @@
+{
+  "name": "work-with-git2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Dima-Khai@github.com/Dima-Khai/work-with-git2.git"
+  },
+  "author": "dima morsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dima-Khai/work-with-git2/issues"
+  },
+  "homepage": "https://github.com/Dima-Khai/work-with-git2#readme"
+}
